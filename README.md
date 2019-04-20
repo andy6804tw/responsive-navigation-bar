@@ -25,4 +25,4 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 ## Copyright and License
 
-CCopyright (c) 2019 Yi Lin Tsai. Code released under the [MIT](https://github.com/andy6804tw/responsive-navigation-bar/blob/master/LICENSE) license.
+Copyright (c) 2019 Yi Lin Tsai. Code released under the [MIT](https://github.com/andy6804tw/responsive-navigation-bar/blob/master/LICENSE) license.
