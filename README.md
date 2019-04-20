@@ -10,7 +10,7 @@
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]()
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/andy6804tw/responsive-navigation-bar/blob/master/LICENSE)
 
 ## Download and Installation
 
